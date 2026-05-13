@@ -61,6 +61,7 @@
 
 ## C# # 
 
+- [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) - 
 - [Justsenger/ExHyperV](https://github.com/Justsenger/ExHyperV) - The Excalibur of Hyper-V / Hyper-V 神器
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful open-source tool for managing networks and troubleshooting network problems!
@@ -117,6 +118,7 @@
 
 ## Go 
 
+- [mainline-org/mainline](https://github.com/mainline-org/mainline) - Git-native memory for coding agents. Repo memory before the diff.
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [bepass-org/warp-plus](https://github.com/bepass-org/warp-plus) - Warp+Psiphon, an anti censorship utility for iran
 - [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
@@ -292,6 +294,7 @@
 
 ## JavaScript 
 
+- [zarazhangrui/tab-out](https://github.com/zarazhangrui/tab-out) - Keep tabs on your tabs. Turn your "New tabs" page into a mission control, so you can close them easily. Built for people who open too many tabs and never close them.
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
@@ -355,6 +358,7 @@
 
 ## Jupyter Notebook 
 
+- [guipsamora/pandas_exercises](https://github.com/guipsamora/pandas_exercises) - Practice your pandas skills!
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [microsoft/TextWorld](https://github.com/microsoft/TextWorld) - ​TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.
@@ -401,6 +405,8 @@
 
 ## Others 
 
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
+- [slavingia/skills](https://github.com/slavingia/skills) - Based on The Minimalist Entrepreneur by Sahil Lavingia
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [zernqr/cstserver](https://github.com/zernqr/cstserver) - CSTServer全球云服务器：高性能裸金属，CN2直连线路，性价比之选
 - [lsasw/my-awesome-stars](https://github.com/lsasw/my-awesome-stars) - stars
@@ -469,6 +475,7 @@
 
 ## Python 
 
+- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
 - [Ttungx/codex_auto_register](https://github.com/Ttungx/codex_auto_register) - Codex注册机
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -486,7 +493,7 @@
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) - GPT-Image-2 API and Prompts
-- [jiangmuran/noterx](https://github.com/jiangmuran/noterx) - 13岁中学生团队 | 自训练量化预测模型 + 评论画像引擎 + 5 AI Agent 多轮辩论，诊断你的小红书笔记为什么没火 在线体验/研究成果→ noterx.muran.tech
+- [jiangmuran/noterx](https://github.com/jiangmuran/noterx) - 自训练量化预测模型 + 评论画像引擎 + 5 AI Agent 多轮辩论，诊断分析小红书笔记数据。
 - [mirrorange/clove](https://github.com/mirrorange/clove) - A Claude.ai reverse proxy
 - [The-Swarm-Corporation/ClawSwarm](https://github.com/The-Swarm-Corporation/ClawSwarm) - A smaller, lighter-weight version of OpenClaw, natively multi-agent, compiles to Rust, and built on the Swarms framework and Swarms ecosystem. One API, unified messaging across Telegram, Discord, and 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -601,6 +608,7 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
 - [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
 - [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持最新的Xhttp传输协议、ENC加密、MLDSA65加密，集成argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
@@ -627,6 +635,7 @@
 
 ## TypeScript 
 
+- [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [jqlang/playground](https://github.com/jqlang/playground) - A jq playground built with Next.js
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
