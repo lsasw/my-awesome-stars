@@ -46,6 +46,7 @@
 
 ## Astro 
 
+- [doocs/awesome-ai](https://github.com/doocs/awesome-ai) - 📊 AI News · Tools · Models | AI 行业资讯 · 工具集 · 模型排行，欢迎补充
 - [hellokaton/china-ranking](https://github.com/hellokaton/china-ranking) - 💻 中国区 Github 开发者排行榜
 
 ## C 
@@ -76,6 +77,7 @@
 
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
@@ -177,6 +179,7 @@
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed pre
 - [end3r/Gamedev-Canvas-workshop](https://github.com/end3r/Gamedev-Canvas-workshop) - Learn how to build 2D HTML5 Breakout game with pure JavaScript
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
+- [marsggbo/md2wechat](https://github.com/marsggbo/md2wechat) - Markdown 转微信公众号 VS Code 插件，支持 LaTeX 公式、实时预览、一键复制和上传草稿箱
 - [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 - [dongshuyan/CPA-Dashboard](https://github.com/dongshuyan/CPA-Dashboard) - Dashboard For CLIProxyAPI
 - [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
@@ -199,6 +202,7 @@
 
 ## Java 
 
+- [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
 - [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering
 - [DevYangJC/Argus](https://github.com/DevYangJC/Argus) - 🌱 Argus 是一个基于 RAG 架构的开源知识库平台，后端采用 Java 21 + Spring Boot + MyBatis-Plus + PostgreSQL/pgvector，前端采用 Vue 3 + TypeScript + Element Plus，AI 层基于 Spring AI Alibaba（通义千问）+ ReactAgent 图引擎，以 MinIO + Elasticsear
 - [LQF-dev/Zero-code](https://github.com/LQF-dev/Zero-code) - Zero Code Studio 是一个工程化 AI 代码生成平台，基于 Spring Boot、LangChain4j、LangGraph4j，支持工具调用、Workflow 编排、任务计划规划、三层上下文压缩、SSE 过程可视化、定点修改与一键本地部署。
@@ -211,7 +215,7 @@
 - [novicezk/midjourney-proxy](https://github.com/novicezk/midjourney-proxy) - 代理 MidJourney 的discord频道，实现api形式调用AI绘图
 - [techa03/goodsKill](https://github.com/techa03/goodsKill) - 🐎基于SpringCloud 2025.x + Dubbo 3.x + AI构建的模拟秒杀微服务项目，集成了Elasticsearch🔍、Gateway、Mybatis-Plus、Sharding-JDBC等常用开源组件
 - [rstyro/Springboot](https://github.com/rstyro/Springboot) - springboot 和一些主流框架的整合的各个基本demo
-- [feiyuchuixue/sz-boot-parent](https://github.com/feiyuchuixue/sz-boot-parent) - Sz-Admin：一个开源RBAC中后台框架，专为现代应用设计。它结合了最新的技术栈，包括后端的Spring Boot 3、JDK 21、Mybatis Flex、Sa-Token、Knife4j和Flyway，以及前端的Vue 3、Vite5、TypeScript和Element Plus，致力于为您提供一个直观、流畅且功能强大的开发体验
+- [feiyuchuixue/sz-boot-parent](https://github.com/feiyuchuixue/sz-boot-parent) - Sz-Admin: An open-source Spring Boot 4 and Vue 3 admin scaffold with RBAC, dynamic menus, code generation, data scope, Excel, OSS and WebSocket support.
 - [callicoder/spring-webflux-reactive-rest-api-demo](https://github.com/callicoder/spring-webflux-reactive-rest-api-demo) - Build Reactive Rest APIs with Spring WebFlux and Reactive Mongo
 - [WeiYe-Jing/datax-web](https://github.com/WeiYe-Jing/datax-web) - DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。
 - [TommyLemon/Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary) - 🔥 Android MVP 快速开发框架，做国内 「示例最全面」「注释最详细」「使用最简单」「代码最严谨」的 Android 开源 UI 框架。                🔥 An Android MVP Framework with many demos, detailed documents, simple usages and strict codes.
@@ -261,7 +265,7 @@
 - [kobeyk/SpringBoot-DesignMode](https://github.com/kobeyk/SpringBoot-DesignMode) - Java 23种设计模式Demo案列大全 ☞ SpringBoot框架
 - [halo-dev/halo](https://github.com/halo-dev/halo) - Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
-- [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+- [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [lsasw/DesignPattern](https://github.com/lsasw/DesignPattern) - 📚 Java 23种设计模式全归纳
 - [youlookwhat/DesignPattern](https://github.com/youlookwhat/DesignPattern) - 📚 Java 23种设计模式全归纳
 - [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
@@ -307,13 +311,14 @@
 
 ## JavaScript 
 
+- [doocs/cose](https://github.com/doocs/cose) - 😃 md 编辑器使用的浏览器扩展，支持一键将文章同步到多个内容平台。
+- [doocs/jvm](https://github.com/doocs/jvm) - 🤗 JVM 底层原理最全知识总结
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [Silentely/eSIM-Tools](https://github.com/Silentely/eSIM-Tools) - 专为已有 Giffgaff 和 Simyo 号码的用户设计的现代化 eSIM 管理工具集，支持将物理 SIM 卡转换为 eSIM、设备更换和二维码生成。(A modern set of eSIM management tools designed specifically for users who already have Giffgaff and Simyo numbers, offering
 - [liujuntao123/smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next) - A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [mm7894215/TokenTracker](https://github.com/mm7894215/TokenTracker) - Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more) — local-first, zero-config, with a beautiful dashboard, native macOS menu bar app
-- [marsggbo/md2wechat](https://github.com/marsggbo/md2wechat) - Markdown 转微信公众号 VS Code 插件，支持 LaTeX 公式、实时预览、一键复制和上传草稿箱
 - [shaogefenhao/md2oa](https://github.com/shaogefenhao/md2oa) - Markdown 转公众号排版工具
 - [lyricat/wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 - [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp) - 文颜 MCP Server 可以让 AI 自动将 Markdown 文章排版后发布至微信公众号。
@@ -437,6 +442,8 @@
 
 ## Others 
 
+- [cunyu1943/JavaPark](https://github.com/cunyu1943/JavaPark) - ☕️「Java 自学指南」Java 学习保姆级教程、计算机基础、数据库、实战实践、效率工具、资源分享、程序人生。
+- [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 - [EstarinAzx/VS-Claude](https://github.com/EstarinAzx/VS-Claude) - A warm, Claude.ai-inspired dark theme for VSCode and Antigravity IDE.
 - [wrode/flow-diagram](https://github.com/wrode/flow-diagram) - Claude Code skill that traces data flow through codebases and produces interactive HTML diagrams
 - [yetone/native-feel-skill](https://github.com/yetone/native-feel-skill) - An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer a
@@ -542,7 +549,6 @@
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [jessevig/bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize Attention in Transformer Models
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
-- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) - GPT-Image-2 API and Prompts
 - [jiangmuran/noterx](https://github.com/jiangmuran/noterx) - 自训练量化预测模型 + 评论画像引擎 + 5 AI Agent 多轮辩论，诊断分析小红书笔记数据。
@@ -649,7 +655,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
-- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -668,6 +674,7 @@
 
 ## Shell 
 
+- [fuzhengwei/xfg-dev-tech-docker-install](https://github.com/fuzhengwei/xfg-dev-tech-docker-install) - docker 安装脚本 + 软件安装
 - [MarcusRawlins/agency-agents](https://github.com/MarcusRawlins/agency-agents) - Fork of msitarzewski/agency-agents
 - [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) - 🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -698,6 +705,7 @@
 
 ## TypeScript 
 
+- [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨
 - [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - Deploy Your Frontend in a Single Command. Claude Code Skills supported.
 - [borawong/AiMaMi](https://github.com/borawong/AiMaMi) - 为OpenAI Codex打造的桌面伴侣。
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -845,6 +853,7 @@
 
 ## Vue 
 
+- [Bozhu12/Blog](https://github.com/Bozhu12/Blog) - 
 - [min-lj/Blog](https://github.com/min-lj/Blog) - vue + springboot 前后端分离博客
 - [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 - [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
