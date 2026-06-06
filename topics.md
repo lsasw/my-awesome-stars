@@ -133,6 +133,7 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [languages](#languages)
+- [laravel](#laravel)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -263,6 +264,7 @@
 
 ## agent 
 
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - 面向企业级市场的一站式AI应用开发框架，支持多厂商大模型统一接入与管理，具备安全可控的企业知识库与高精度检索优化能力，提供可视化流程编排、自主决策智能体与多智能体协同调度，兼容主流 Agent Skill 协议，帮助企业与开发者零门槛快速构建安全、高效、可落地的AI智能体应用与行业解决方案。
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [EKKOLearnAI/hermes-web-ui](https://github.com/EKKOLearnAI/hermes-web-ui) - Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics
@@ -375,7 +377,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [spring-ai-alibaba/examples](https://github.com/spring-ai-alibaba/examples) - Examples demonstrating usage of Spring AI & Spring AI Alibaba 📜
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
-- [beatai-org/beatai](https://github.com/beatai-org/beatai) - 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。 Let's just beat it !
+- [genesislab-io/beatai](https://github.com/genesislab-io/beatai) - 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。 Let's just beat it !
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
@@ -753,6 +755,7 @@
 
 ## cli 
 
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -957,6 +960,7 @@
 
 ## developer-tools 
 
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [cthiriet/nano-claude-code](https://github.com/cthiriet/nano-claude-code) - A minimal reproduction of Claude Code
 - [patoles/agent-flow](https://github.com/patoles/agent-flow) - Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work.
 - [mm7894215/TokenTracker](https://github.com/mm7894215/TokenTracker) - Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more) — local-first, zero-config, with a beautiful dashboard, native macOS menu bar app
@@ -1394,6 +1398,7 @@
 
 ## java 
 
+- [bytesfly/blog](https://github.com/bytesfly/blog) - 互联网是有记忆的，我想留下一些成长的脚印。
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [doocs/jvm](https://github.com/doocs/jvm) - 🤗 JVM 底层原理最全知识总结
 - [cunyu1943/JavaPark](https://github.com/cunyu1943/JavaPark) - ☕️「Java 自学指南」Java 学习保姆级教程、计算机基础、数据库、实战实践、效率工具、资源分享、程序人生。
@@ -1430,7 +1435,7 @@
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
-- [redisson/redisson](https://github.com/redisson/redisson) - Redisson: the high-level Java client for Redis and Valkey. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, 
+- [redisson/redisson](https://github.com/redisson/redisson) - Redisson: Valkey & Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, 
 - [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
@@ -1523,7 +1528,7 @@
 - [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
 - [liyupi/sql-generator](https://github.com/liyupi/sql-generator) - 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [redisson/redisson](https://github.com/redisson/redisson) - Redisson: the high-level Java client for Redis and Valkey. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, 
+- [redisson/redisson](https://github.com/redisson/redisson) - Redisson: Valkey & Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, 
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 
 ## jupyter-notebook 
@@ -1561,6 +1566,10 @@
 ## languages 
 
 - [zedoCN/VVM-Translator](https://github.com/zedoCN/VVM-Translator) - visualvm 的汉化工具，提供了语言提取和生成，可用于其他语言的翻译。
+
+## laravel 
+
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 ## learning 
 
@@ -1600,6 +1609,7 @@
 
 ## llm 
 
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) - 🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）
 - [LQF-dev/Zero-code](https://github.com/LQF-dev/Zero-code) - Zero Code Studio 是一个工程化 AI 代码生成平台，基于 Spring Boot、LangChain4j、LangGraph4j，支持工具调用、Workflow 编排、任务计划规划、三层上下文压缩、SSE 过程可视化、定点修改与一键本地部署。
@@ -1644,7 +1654,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [opensolon/solon](https://github.com/opensolon/solon) - 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% s
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
-- [beatai-org/beatai](https://github.com/beatai-org/beatai) - 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。 Let's just beat it !
+- [genesislab-io/beatai](https://github.com/genesislab-io/beatai) - 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。 Let's just beat it !
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
@@ -1791,6 +1801,7 @@
 
 ## mongodb 
 
+- [AntonyCheng/spring-boot-init-template](https://github.com/AntonyCheng/spring-boot-init-template) - 基于 Java Web 项目的 SpringBoot 框架初始化模板，适配最新版本Spring AI，该模板整合了常用的框架（Mybatis-Plus、ShardingSphere、Redis、RabbitMQ、Elasticsearch、SaToken、OSS、Caffeine以及MongoDB等），广泛支持JDK11和JDK17，部分版本兼容JDK8，同时该模板适用于前后端分离项目启动开发，保
 - [digoal/blog](https://github.com/digoal/blog) - Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [macrozheng/mall-learning](https://github.com/macrozheng/mall-learning) - mall学习教程，架构、业务、技术要点全方位解析。mall项目（60k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot、MyBatis、Elasticsearch、RabbitMQ、Redis、MongoDB、MySQL等技术，采用Docker容器化部署。
@@ -1810,6 +1821,7 @@
 
 ## mysql 
 
+- [bytesfly/blog](https://github.com/bytesfly/blog) - 互联网是有记忆的，我想留下一些成长的脚印。
 - [cunyu1943/JavaPark](https://github.com/cunyu1943/JavaPark) - ☕️「Java 自学指南」Java 学习保姆级教程、计算机基础、数据库、实战实践、效率工具、资源分享、程序人生。
 - [LQF-dev/Zero-code](https://github.com/LQF-dev/Zero-code) - Zero Code Studio 是一个工程化 AI 代码生成平台，基于 Spring Boot、LangChain4j、LangGraph4j，支持工具调用、Workflow 编排、任务计划规划、三层上下文压缩、SSE 过程可视化、定点修改与一键本地部署。
 - [liyupi/yu-ai-code-mother](https://github.com/liyupi/yu-ai-code-mother) - 编程导航 AI + 微服务全栈新项目，基于 Spring Boot 3 + LangChain4j 的大厂 AI 应用生成平台，支持多种模式的智能代码生成、可视化编辑预览、一键部署分享、应用管理、AI 智能路由等。覆盖 AI 智能体开发、LangGraph4j 工作流、Tool Calling、SSE、Vue 3 全栈开发、Spring Cloud 微服务架构、MySQL / Redis / CO
@@ -1854,11 +1866,12 @@
 
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [jessevig/bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize Attention in Transformer Models
-- [beatai-org/beatai](https://github.com/beatai-org/beatai) - 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。 Let's just beat it !
+- [genesislab-io/beatai](https://github.com/genesislab-io/beatai) - 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。 Let's just beat it !
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 
 ## nextjs 
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed pre
 - [jqlang/playground](https://github.com/jqlang/playground) - A jq playground built with Next.js
@@ -2001,6 +2014,7 @@
 
 ## others 
 
+- [yetone/alma-releases](https://github.com/yetone/alma-releases) - 
 - [tencent-connect/openclaw-qqbot](https://github.com/tencent-connect/openclaw-qqbot) - qqbot
 - [zhaoyue4810/pianke](https://github.com/zhaoyue4810/pianke) - 
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -2445,6 +2459,7 @@
 
 ## react 
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -2630,7 +2645,7 @@
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 - [yangzongzhuan/RuoYi-fast](https://github.com/yangzongzhuan/RuoYi-fast) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
-- [redisson/redisson](https://github.com/redisson/redisson) - Redisson: the high-level Java client for Redis and Valkey. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, 
+- [redisson/redisson](https://github.com/redisson/redisson) - Redisson: Valkey & Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, 
 - [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
@@ -2715,6 +2730,7 @@
 
 ## tailwindcss 
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
@@ -2742,6 +2758,7 @@
 
 ## terminal 
 
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -2774,6 +2791,7 @@
 
 ## tui 
 
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
@@ -2787,6 +2805,7 @@
 
 ## typescript 
 
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
@@ -2830,6 +2849,7 @@
 
 ## ui 
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
