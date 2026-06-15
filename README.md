@@ -53,6 +53,7 @@
 ## C 
 
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
+- [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
@@ -79,7 +80,6 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
@@ -196,6 +196,7 @@
 
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
 - [plannotator/effective-html](https://github.com/plannotator/effective-html) - Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.
+- [nevertoday/zhongguo-traditional-colors](https://github.com/nevertoday/zhongguo-traditional-colors) - 中华传统色演示、色卡浏览与颜色知识科普开源项目
 - [bytesfly/blog](https://github.com/bytesfly/blog) - 互联网是有记忆的，我想留下一些成长的脚印。
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
@@ -225,6 +226,7 @@
 
 ## Java 
 
+- [javaside/aidemo](https://github.com/javaside/aidemo) - 
 - [DevYangJC/DataLoom](https://github.com/DevYangJC/DataLoom) - 🧵 DataLoom — 把在线表格在线excel像零件一样装进你的项目。  前端是独立 SPA（Vue 3 + Luckysheet），后端是独立微服务（Spring Boot），之间只有 REST API。你后端是 Java、Go、Node 还是 Python 都无所谓——把这两个目录扔进去，配个代理，在线表格能力就有了。  分块存储支持十万行级的 Excel 实时编辑，前端 ExcelJS 
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [lsasw/toBeBetterJavaer](https://github.com/lsasw/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
@@ -339,11 +341,11 @@
 
 ## JavaScript 
 
+- [Melodymaifafa/claude-permission-popup](https://github.com/Melodymaifafa/claude-permission-popup) - Centered native macOS permission dialog for Claude Code, with risk-tiered Always-allow.
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
 - [shiqkuangsan/catpaw](https://github.com/shiqkuangsan/catpaw) - AI workflow runtime for coding agents: workflow routing, project artifact boards, provider gates, adapter activation, and executable governance.
 - [XBuilderLAB/cheat-on-money](https://github.com/XBuilderLAB/cheat-on-money) - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环
-- [nevertoday/zhongguo-traditional-colors](https://github.com/nevertoday/zhongguo-traditional-colors) - 中华传统色演示、色卡浏览与颜色知识科普开源项目
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
 - [gnurio/refactoring-ui-plugin](https://github.com/gnurio/refactoring-ui-plugin) - 10 applied skills for Claude Code and Cursor that turn the principles of Refactoring UI into structured AI-assisted design reviews | not affiliated, big fan, get their book here:
@@ -582,6 +584,10 @@
 
 ## Python 
 
+- [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
+- [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
+- [x6nux/zed-globalization](https://github.com/x6nux/zed-globalization) - Zed 编辑器汉化版 / 中文版 / 多语言版 — AI 驱动全自动翻译构建，支持简繁中文/日语/韩语 | Zed Editor Localized with AI-powered translation pipeline
 - [Thysrael/Horizon](https://github.com/Thysrael/Horizon) - 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
@@ -792,6 +798,7 @@
 
 ## TypeScript 
 
+- [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - The batteries included agent harness.
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pe
@@ -841,7 +848,7 @@
 - [patoles/agent-flow](https://github.com/patoles/agent-flow) - Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work.
 - [jonwiggins/claude-code-visualizer](https://github.com/jonwiggins/claude-code-visualizer) - Interactive educational webapp visualizing how Claude Code works internally
 - [chauncygu/collection-claude-code-source-code](https://github.com/chauncygu/collection-claude-code-source-code) - 🔥 A collection of the newest Claude Code open source
-- [EKKOLearnAI/hermes-web-ui](https://github.com/EKKOLearnAI/hermes-web-ui) - Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics
+- [EKKOLearnAI/hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) - Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics
 - [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 - [Cici2014/markdown2weixin](https://github.com/Cici2014/markdown2weixin) - 一款可以将markdown直接导入微信草稿箱的vscode插件，支持代码高亮和mermaid渲染
 - [tenngoxars/WeMD](https://github.com/tenngoxars/WeMD) - 更优雅的 Markdown 公众号编辑器
