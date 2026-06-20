@@ -55,7 +55,6 @@
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [Vuniverse0/mingwInstaller](https://github.com/Vuniverse0/mingwInstaller) - Installer of MinGW-W64 with GUI
@@ -138,6 +137,7 @@
 
 ## Go 
 
+- [appbaseio/abc](https://github.com/appbaseio/abc) - Power of appbase.io via CLI, with nifty imports from your favorite data sources
 - [coderabbit214/claude-bridge](https://github.com/coderabbit214/claude-bridge) - Claude Code sessions on a Mac via personal WeChat.
 - [clawbench-dev/clawbench](https://github.com/clawbench-dev/clawbench) - 为移动端打造的 AI 工作台 — 将强大的 AI 编程工具能力完整移植到手机浏览器
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from
@@ -159,7 +159,7 @@
 - [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API is an open-source relay platform that unifies Claude, OpenAI, Gemini, and Antigravity subscriptions into a single endpoint. It supports account sharing and cost-sharing, with seamless native t
 - [wuYin/blog](https://github.com/wuYin/blog) - 个人博客
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude m
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through
 - [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布
 - [HaradaKashiwa/FreeGFW](https://github.com/HaradaKashiwa/FreeGFW) - To allow more people to access the internet.
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
@@ -170,6 +170,7 @@
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [alibaba/MongoShake](https://github.com/alibaba/MongoShake) - MongoShake is a universal data replication platform based on MongoDB's oplog. Redundant replication and active-active replication are two most important functions. 基于mongodb oplog的集群复制工具，可以满足迁移和同步的需求，
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -390,6 +391,7 @@
 - [hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite) - A light-weight torrent media center at one place.
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [router-for-me/EasyCLI](https://github.com/router-for-me/EasyCLI) - A desktop GUI from CLIProxyAPI
+- [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [qist/xray-ui](https://github.com/qist/xray-ui) - 
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
@@ -588,6 +590,7 @@
 
 ## PowerShell 
 
+- [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop.
 - [Windos/BurntToast](https://github.com/Windos/BurntToast) - Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
@@ -782,11 +785,10 @@
 - [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 - [fuzhengwei/xfg-dev-tech-docker-install](https://github.com/fuzhengwei/xfg-dev-tech-docker-install) - docker 安装脚本 + 软件安装
 - [MarcusRawlins/agency-agents](https://github.com/MarcusRawlins/agency-agents) - Fork of msitarzewski/agency-agents
-- [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) - 🎭 216 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 17 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 50 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。
+- [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) - 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 50 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
-- [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
 - [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持最新的Xhttp传输协议、ENC加密、MLDSA65加密，集成argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
