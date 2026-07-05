@@ -77,6 +77,7 @@
 
 ## C++ 
 
+- [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
 - [wugenqiang/NoteBook](https://github.com/wugenqiang/NoteBook) - ✍ 记录一路走来学习的计算机专业知识 ，力求构建 AI & CS & SE 知识体系
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
@@ -843,6 +844,8 @@
 
 ## TypeScript 
 
+- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
+- [mistydew/tokenicode-deepseek-alpha](https://github.com/mistydew/tokenicode-deepseek-alpha) - TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork
 - [Zleap-AI/SAG](https://github.com/Zleap-AI/SAG) - An document retrieval project built on SAG
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
