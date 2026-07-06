@@ -334,6 +334,7 @@
 
 ## agents 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
@@ -360,6 +361,7 @@
 
 ## ai 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [Zleap-AI/SAG](https://github.com/Zleap-AI/SAG) - An document retrieval project built on SAG
 - [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) - The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
 - [taishan666/MaxKB4j](https://github.com/taishan666/MaxKB4j) - MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. The project mainly draws on MaxKB, Dify and FastGPT, and combines the advantages o
@@ -1667,6 +1669,7 @@
 
 ## javascript 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
@@ -1838,6 +1841,7 @@
 
 ## llm 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [Zleap-AI/SAG](https://github.com/Zleap-AI/SAG) - An document retrieval project built on SAG
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
@@ -2022,6 +2026,7 @@
 
 ## mcp 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [Thysrael/Horizon](https://github.com/Thysrael/Horizon) - 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
@@ -2148,6 +2153,7 @@
 
 ## nextjs 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -2190,6 +2196,7 @@
 
 ## nodejs 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [mm7894215/TokenTracker](https://github.com/mm7894215/TokenTracker) - Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode & more — lo
@@ -2873,6 +2880,7 @@
 
 ## reactjs 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [unbug/react-native-train](https://github.com/unbug/react-native-train) - I use this book to train my team, help them to know how to build React-native app in the right way.
 
@@ -3193,6 +3201,7 @@
 
 ## typescript 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
