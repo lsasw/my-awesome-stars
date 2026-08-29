@@ -1455,7 +1455,6 @@
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 - [apache/inlong](https://github.com/apache/inlong) - Apache InLong - a one-stop, full-scenario integration framework for massive data
