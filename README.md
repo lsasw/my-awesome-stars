@@ -152,7 +152,7 @@
 - [Kocoro-lab/Kocoro](https://github.com/Kocoro-lab/Kocoro) - A Mac-native AI agent with memory, local computer access, browser control, IM channels, and MCP-native integrations. Built on Shannon.
 - [appbaseio/abc](https://github.com/appbaseio/abc) - Power of appbase.io via CLI, with nifty imports from your favorite data sources
 - [coderabbit214/claude-bridge](https://github.com/coderabbit214/claude-bridge) - Claude Code sessions on a Mac via personal WeChat.
-- [clawbench-dev/clawbench](https://github.com/clawbench-dev/clawbench) - Mobile-first AI workstation — full integration of mainstream AI agents on phone & tablet. Single binary, zero dependencies, one-click deploy.
+- [clawbench-dev/clawbench](https://github.com/clawbench-dev/clawbench) - AI Workbench, United Across Devices — mobile-first interaction, desktop-compatible. Runs on PC, Android, and fully inside Termux on your phone. Single binary, zero dependencies.
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
@@ -213,7 +213,7 @@
 ## HTML 
 
 - [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
-- [lsasw/mycelium](https://github.com/lsasw/mycelium) - 交互式技术学习教程合集：AI 框架对比、Dify/n8n 实战、Java JUC 并发、LangChain/LangGraph 教程
+- [lsasw/mycelium](https://github.com/lsasw/mycelium) - 🍄 Mycelium · 菌丝 · 个人知识花园 —— 55+ 张互联互通的常青笔记
 - [paullarionov/claude-certified-architect](https://github.com/paullarionov/claude-certified-architect) - This repository contains study materials for the **Claude Certified Architect — Foundations** certification.
 - [AFunc-OPC/Skiller](https://github.com/AFunc-OPC/Skiller) - Skiller 是一款跨平台 Skill 管理工具，用于帮助开发者集中管理、预览和分发 AI Skill文件
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
@@ -989,7 +989,7 @@
 - [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复
 - [motiful/cc-gateway](https://github.com/motiful/cc-gateway) - AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying
 - [codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript) - Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
-- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek 
+- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意 Web UI，含 DeepSe
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Co
 - [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management | 一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板
